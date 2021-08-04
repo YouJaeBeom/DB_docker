@@ -182,7 +182,7 @@ log-slave_updates=1
 위와 같이 Slave DB container는 설정해줍니다.
 
 
-#### 🗡 master/mysql-init-files/create.sql
+#### 🗡 slave/mysql-init-files/create.sql
 
 ```
 CREATE DATABASE dbname;
